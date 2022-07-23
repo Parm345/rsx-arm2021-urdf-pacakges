@@ -40,7 +40,7 @@
         rpy="1.570796 0 0" />
       <geometry>
         <mesh
-          filename="package://urdf_template_4/meshes/base_link_collision.STL" />
+          filename="package://urdf_template_4/meshes/base_link.STL" />
       </geometry>
     </collision>
   </link>
@@ -80,7 +80,7 @@
         rpy="0 0 0" />
       <geometry>
         <mesh
-          filename="package://urdf_template_4/meshes/link_1_collision.STL" />
+          filename="package://urdf_template_4/meshes/link_1.STL" />
       </geometry>
     </collision>
   </link>
@@ -138,7 +138,7 @@
         rpy="0 0 0" />
       <geometry>
         <mesh
-          filename="package://urdf_template_4/meshes/link_2_collision.STL" />
+          filename="package://urdf_template_4/meshes/link_2.STL" />
       </geometry>
     </collision>
   </link>
@@ -196,7 +196,7 @@
         rpy="0 0 0" />
       <geometry>
         <mesh
-          filename="package://urdf_template_4/meshes/link_3_collision.STL" />
+          filename="package://urdf_template_4/meshes/link_3.STL" />
       </geometry>
     </collision>
   </link>
@@ -254,7 +254,7 @@
         rpy="0 0 0" />
       <geometry>
         <mesh
-          filename="package://urdf_template_4/meshes/link_4_collision.STL" />
+          filename="package://urdf_template_4/meshes/link_4.STL" />
       </geometry>
     </collision>
   </link>
