@@ -1,9 +1,9 @@
 
 # Table of Contents
 
-[Steps To Use in Rviz](link)
+[Steps To Use in Rviz](https://github.com/Parm345/rsx-arm2021-urdf-pacakges#steps-to-use-in-rviz)
 
-[Just Using URDF File](link)
+[Just Using URDF File](https://github.com/Parm345/rsx-arm2021-urdf-pacakges#just-using-urdf-file)
 
 # Steps To Use in Rviz
 
